@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    width: auto;
+}
+
+#cabecalho{
+    
+}
+
+header{
+    background-image: url(/Imagens/fundo-cabecalho.gif);
+    background-repeat: repeat;
+    background-size: unset;
+
+    width: auto;
+}
+
+#fundo{
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin: 3px;
+}
