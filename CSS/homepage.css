@@ -6,18 +6,14 @@ body{
     background-color: black;
 }
 
-div{
-    width: auto;
-}
-
 #cabecalho{
     
 }
 
 header{
-    background-image: url(/Imagens/fundo-cabecalho.gif);
-    background-repeat: repeat;
-    background-size: unset;
+    background-image: url(/Imagens/teste-fundo-header.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 
     width: auto;
 }
@@ -25,5 +21,4 @@ header{
 #fundo{
     background-color: aliceblue;
     border: 1px solid black;
-    margin: 3px;
 }
